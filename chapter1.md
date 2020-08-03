@@ -8,7 +8,6 @@
 
 * 同じ要素を2回以上使用することはできません
 </details>
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 ## 例
 
